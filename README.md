@@ -13,7 +13,7 @@ Our team has six members, build a small Scratch based game by two weeks.
 6. Kevin Han
 
 Team advisor David Peng
-Team assistant coach Jenny
+Team assistant coach Jenny Shum-Lin
 
 Note:
 Since the final project was submitted for judgement, we will not release the final group project until the result of competition was released.
