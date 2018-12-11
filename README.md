@@ -19,3 +19,9 @@ Note:
 Since the final project was submitted for judgement, we will not release the final group project until the result of competition was released.
 
 Stay tune, we will release the final group project soon.
+
+Update at Dec 10th, we release our final group project "Innovation Kid Town", it is a great masterpiece, please try it, and let us know if you find any question or suggestion.
+
+https://scratch.mit.edu/projects/258715040/
+
+This is the online version of our final group project
